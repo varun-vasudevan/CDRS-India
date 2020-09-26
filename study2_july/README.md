@@ -1,4 +1,4 @@
-Variation in COVID-19 data reporting across India - six months into the pandemic
+Variation in COVID-19 Data Reporting Across India: 6 Months into the Pandemic
 --------------------------------------------------------------------------------
 Authors: Varun Vasudevan, Abeynaya Gnanasekaran, Varsha Sankar, Siddarth A. Vasudevan, James Zou
 
