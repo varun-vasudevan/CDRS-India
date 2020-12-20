@@ -5,7 +5,7 @@ Authors: Varun Vasudevan, Abeynaya Gnanasekaran, Varsha Sankar, Siddarth A. Vasu
 Date of study: July 12, 2020 to July 25, 2020
 
 
-Description for tidy_scoring_data.csv
+Description for tidy_scoring_data.xlsx
 --------------------------------------
 **Columns**: State or Union Territory
 
@@ -23,6 +23,7 @@ Description for tidy_scoring_data.csv
 		
 Additional Comments
 --------------------
+The following should be taken into consideration while normalizing scores.
 - Chandigarh doesn't have districts.
 - Lakshadweep was excluded because it had less than 10 cases as of July 12, 2020
 - Andaman & Nicobar Islands, Manipur, Mizoram and Sikkim didn't have any deaths until July 25, 2020
