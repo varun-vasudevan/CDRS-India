@@ -1,6 +1,6 @@
 ## Disparity in the quality of COVID-19 data reporting across India
 
-Varun Vasudevan, Abeynaya Gnanasekaran, Varsha Sankar, Siddarth A. Vasudevan, James Zou
+Authors: Varun Vasudevan, Abeynaya Gnanasekaran, Varsha Sankar, Siddarth A. Vasudevan, James Zou
 
 Date of study: May 19, 2020 to June 1, 2020
 
