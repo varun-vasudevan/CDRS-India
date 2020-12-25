@@ -5,7 +5,7 @@ Authors: Varun Vasudevan, Abeynaya Gnanasekaran, Varsha Sankar, Siddarth A. Vasu
 Date of study: July 12, 2020 to July 25, 2020
 
 
-Description for tidy_scoring_data.xlsx
+Description for tidy_scoring_data.csv
 --------------------------------------
 **Columns**: State or Union Territory
 
