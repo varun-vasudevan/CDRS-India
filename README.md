@@ -14,7 +14,17 @@ We evaluated 29 out of 36 states and union territories in India. Our results sho
 ## Citing our paper
 If you find this framework/study useful, please cite our paper:
 ```
-details to come soon
+@article{vasudevan2021disparity,
+  title={Disparity in the quality of COVID-19 data reporting across India},
+  author={Vasudevan, Varun and Gnanasekaran, Abeynaya and Sankar, Varsha and Vasudevan, Siddarth A and Zou, James},
+  journal={BMC public health},
+  volume={21},
+  number={1},
+  pages={1--12},
+  year={2021},
+  publisher={BioMed Central},
+  doi = {https://doi.org/10.1186/s12889-021-11054-7}
+}
 ```
 
 # Study 2 (July 12 - July 25, 2020) <a name="study2"></a>
