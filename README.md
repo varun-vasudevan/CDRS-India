@@ -9,7 +9,7 @@ Transparent and accessible reporting of COVID-19 data is critical for public hea
 
 Using WHO's recommendations for reporting COVID-19 surveillance data, and the best practices used in data reporting, we developed a framework with 45 indicators to evaluate the "quality of COVID-19 data reporting" done by the state and union territory governments in India. This framework captures four key aspects of public health data reporting — availability, accessibility, granularity, and privacy.  
 
-We evaluated 29 out of 36 states and union territories in India. Our results showed a large disparity in the quality of reporting across India. For more details please read the paper, [Disparity in the quality of COVID-19 data reporting across India](link to come soon) published in BMC Public Health.
+We evaluated 29 out of 36 states and union territories in India. Our results showed a large disparity in the quality of reporting across India. For more details please read the paper, [Disparity in the quality of COVID-19 data reporting across India](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-11054-7) published in BMC Public Health.
 
 ## Citing our paper
 If you find this framework/study useful, please cite our paper:
