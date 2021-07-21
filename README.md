@@ -1,7 +1,7 @@
 # Table of contents
 - [Study 1 (May 19 - June 1, 2020)](#study1)
 - [Study 2 (July 12 - July 25, 2020)](#study2)
-- [Study 3 (May/June 2021)](#study3)
+- [Study 3 (May 22 - June 05, 2021)](#study3)
 
 <!-- toc -->
 # Study 1 (May 19 - June 1, 2020) <a name="study1"></a>
