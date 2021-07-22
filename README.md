@@ -1,11 +1,15 @@
 # Table of contents
 
+- [Introduction](#intro)
 - [Media coverage](#media)
 - [Study 1 (May 19 - June 1, 2020)](#study1)
 - [Study 2 (July 12 - July 25, 2020)](#study2)
 - [Study 3 (May 22 - June 05, 2021)](#study3)
 
 <!-- toc -->
+
+# Introduction <a name="intro"></a>
+In this project we evaluated the quality of COVID-19 data reporting across India during three time-periods between 2020 (first wave) and 2021 (second wave). In [study 1](#study1) and [study 2](#study2) we assess the quality in the reporting of surveillance data. In [study 3](#study3) we assess the quality in the reporting of surveillance data, vaccination monitoring data, and vacant bed reporting.
 
 # Media coverage <a name="media"></a>
 The following are few news articles from India that covered our work.
@@ -68,5 +72,13 @@ If you find this study useful, please cite our paper:
 }
 ```
 
-# Study 3 (May/June 2021) <a name="study3"></a>
-Ongoing 
+# Study 3 (May 22 - June 05, 2021) <a name="study3"></a>
+
+How many men and women have died due to COVID-19 in each state in India? What severe adverse events have been reported following vaccination? Which states are reporting the number of vacant oxygen beds in their hospitals? Such questions have strong public health implications. Is data reporting from the national and subnational governments in India granular enough to answer such questions? We answer that in this paper by documenting and analyzing the reporting of surveillance data, vaccination monitoring data, and bed availability during the second wave of COVID-19.
+
+## Citing our paper
+If you find this study useful, please cite our paper:
+```
+Link to come here
+```
+
