@@ -1,15 +1,38 @@
 # Table of contents
+
+- [Media coverage](#media)
 - [Study 1 (May 19 - June 1, 2020)](#study1)
 - [Study 2 (July 12 - July 25, 2020)](#study2)
 - [Study 3 (May 22 - June 05, 2021)](#study3)
 
 <!-- toc -->
+
+# Media coverage <a name="media"></a>
+The following are few news articles from India that covered our work.
+- English 
+  - [Frontline magazine](https://frontline.thehindu.com/dispatches/karnataka-top-state-in-the-quality-of-covid-19-data-reporting-stanford-study/article32204466.ece)
+  - [The Times of India, Goa](https://timesofindia.indiatimes.com/city/goa/stanford-univ-study-goa-among-10-worst-states-in-covid-data-reporting/articleshow/77309539.cms)
+  - [The Hindu](https://www.thehindu.com/news/national/karnataka/karnataka-best-in-covid-19-reporting-study/article32198153.ece)
+  - [India Today](https://www.indiatoday.in/india/story/coronavirus-data-reporting-stanford-university-study-1704776-2020-07-27)
+  - [Times of India, Patna](https://timesofindia.indiatimes.com/city/patna/stanford-university-study-ranks-bihar-poor-in-sharing-covid-data/articleshow/77205346.cms)
+  - [The Print, English](https://theprint.in/health/uttar-pradesh-and-bihar-worst-in-covid-reporting-karnataka-best-stanford-study-finds/467947/)
+  - [The Indian Express, Chandigarh](https://indianexpress.com/article/cities/chandigarh/chandigarh-one-of-the-worst-in-reporting-coronavirus-data-says-stanford-study-6526445/)
+  - [Times of India, Odisha](https://timesofindia.indiatimes.com/city/bhubaneswar/amid-lockdown-odisha-sees-traffic-from-123-countries/articleshow/77290916.cms)
+  - [Scroll.in](https://scroll.in/latest/968648/karnataka-best-in-terms-of-covid-19-data-reporting-up-and-bihar-worst-shows-stanford-study?)
+  - [News 18](https://www.news18.com/news/india/up-and-bihar-worst-in-covid-19-reporting-across-india-shows-stanford-study-2736207.html)
+  - [Business Standard](https://www.business-standard.com/article/current-affairs/india-coronavirus-dispatch-up-bihar-worst-in-covid-reporting-finds-study-120072600403_1.html)
+  - [National Herald](https://www.nationalheraldindia.com/national/up-bihar-worst-in-covid-reporting-across-india-stanford-study)
+- Regional languages
+  - [The Print, Hindi](https://hindi.theprint.in/india/uttar-pradesh-and-bihar-worst-in-covid-19-reporting-karnataka-best-stanford-study-finds/157586/)
+  - [Malayala Manorama, Malayalam](https://www.manoramaonline.com/news/latest-news/2020/07/28/karnataka-ranks-high-in-coronavirus-data-reporting-stanford-university-study.html)
+  - [Daily Thanthi, Tamil](https://www.dailythanthi.com/News/India/2020/07/27102111/Uttar-Pradesh-Bihar-worst-in-COVID19-reporting-across.vpf)
+
 # Study 1 (May 19 - June 1, 2020) <a name="study1"></a>
 Transparent and accessible reporting of COVID-19 data is critical for public health efforts. Back in 2020, each Indian state and union territory had its own mechanism for reporting COVID-19 data, and the quality of their reporting had not been systematically evaluated. 
 
 Using WHO's recommendations for reporting COVID-19 surveillance data, and the best practices used in data reporting, we developed a framework with 45 indicators to evaluate the "quality of COVID-19 data reporting" done by the state and union territory governments in India. This framework captures four key aspects of public health data reporting — availability, accessibility, granularity, and privacy.  
 
-We evaluated 29 out of 36 states and union territories in India. Our results showed a large disparity in the quality of reporting across India. For more details please read the paper, [Disparity in the quality of COVID-19 data reporting across India](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-11054-7) published in BMC Public Health.
+We evaluated 29 out of 36 states and union territories in India. Our results showed a large disparity in the quality of reporting across India. For more details please read the paper, [Disparity in the quality of COVID-19 data reporting across India](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-11054-7) published in BMC Public Health. We also have a [Tableau interactive dashboard](https://public.tableau.com/profile/varun.vasudevan1956#!/vizhome/DisparityintheQualityofCOVID-19DataReportingAcrossIndia/CDRS) summarizing this study.
 
 ## Citing our paper
 If you find this framework/study useful, please cite our paper:
