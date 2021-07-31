@@ -79,6 +79,12 @@ How many men and women have died due to COVID-19 in each state in India? What se
 ## Citing our paper
 If you find this study useful, please cite our paper:
 ```
-Link to come here
+@article{vasudevan2021100+,
+  title={100+ COVID-19 websites and apps: yet a lack of granular data from India},
+  author={Vasudevan, Varun and Gnanasekaran, Abeynaya and Bansal, Bhavik and Lahariya, Chandrakant and Parameswaran, Giridara Gopal and Zou, James},
+  year={2021},
+  publisher={OSF Preprints},
+  doi={https://osf.io/wa3gn/}
+}
 ```
 
