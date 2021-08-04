@@ -84,7 +84,7 @@ If you find this study useful, please cite our paper:
   author={Vasudevan, Varun and Gnanasekaran, Abeynaya and Bansal, Bhavik and Lahariya, Chandrakant and Parameswaran, Giridara Gopal and Zou, James},
   year={2021},
   publisher={OSF Preprints},
-  doi={https://osf.io/wa3gn/}
+  doi={https://doi.org/10.31219/osf.io/wa3gn}
 }
 ```
 
