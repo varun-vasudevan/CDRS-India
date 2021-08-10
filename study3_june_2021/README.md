@@ -1,4 +1,4 @@
-100+ COVID-19 websites and apps: yet a lack of granular data from India
+Assessment of COVID-19 data reporting in 100+ websites and apps in India
 --------------------------------------------------------------------------------
 Authors: Varun Vasudevan, Abeynaya Gnanasekaran, Bhavik Bansal, Chandrakant Lahariya, Giridara Gopal Parameswaran, and James Zou
 
