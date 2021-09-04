@@ -16,6 +16,7 @@ The following are few news articles from India that covered our work.
 - English 
   - [Frontline magazine](https://frontline.thehindu.com/dispatches/karnataka-top-state-in-the-quality-of-covid-19-data-reporting-stanford-study/article32204466.ece)
   - [The Times of India, Goa](https://timesofindia.indiatimes.com/city/goa/stanford-univ-study-goa-among-10-worst-states-in-covid-data-reporting/articleshow/77309539.cms)
+  - [Goa prism](https://www.goaprism.com/stanford-university-study-reviews-data-reporting-scores-goa-ranks-10th-worst-in-the-country/)
   - [The Hindu](https://www.thehindu.com/news/national/karnataka/karnataka-best-in-covid-19-reporting-study/article32198153.ece)
   - [The Statesman](https://www.thestatesman.com/coronavirus/up-bihar-worst-in-covid-reporting-across-india-stanford-study-1502911466.html)
   - [India Today](https://www.indiatoday.in/india/story/coronavirus-data-reporting-stanford-university-study-1704776-2020-07-27)
