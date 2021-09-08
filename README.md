@@ -13,7 +13,14 @@ In this project we evaluated the quality of COVID-19 data reporting across India
 
 # Media coverage <a name="media"></a>
 The following are few news articles from India that covered our work.
-- English 
+
+### Study 3
+- English
+  - [IndiaSpend](https://www.indiaspend.com/data-gaps/20-months-in-gaps-persist-in-indias-official-covid-19-data-772670) news article by data journalist [Rukmini Shrinivasan](https://twitter.com/Rukmini). The article includes comments from government officials when asked about the findings from our study.
+
+
+### Study 1
+- English
   - [Frontline magazine](https://frontline.thehindu.com/dispatches/karnataka-top-state-in-the-quality-of-covid-19-data-reporting-stanford-study/article32204466.ece)
   - [The Times of India, Goa](https://timesofindia.indiatimes.com/city/goa/stanford-univ-study-goa-among-10-worst-states-in-covid-data-reporting/articleshow/77309539.cms)
   - [Goa prism](https://www.goaprism.com/stanford-university-study-reviews-data-reporting-scores-goa-ranks-10th-worst-in-the-country/)
