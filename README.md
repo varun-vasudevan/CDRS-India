@@ -17,6 +17,7 @@ The following are few news articles from India that covered our work.
 ### Study 3
 - English
   - [IndiaSpend](https://www.indiaspend.com/data-gaps/20-months-in-gaps-persist-in-indias-official-covid-19-data-772670) news article by data journalist [Rukmini Shrinivasan](https://twitter.com/Rukmini). The article includes comments from government officials when asked about the findings from our study.
+  - [Times of India, Kochi](https://timesofindia.indiatimes.com/city/kochi/kerala-scores-in-transparency-but-under-counting-of-covid-deaths-a-worry/articleshow/86827857.cms)
 
 
 ### Study 1
