@@ -100,7 +100,7 @@ If you find this study useful, please cite our paper:
   pages = {1-11},
   number = {4},
   doi = {10.1371/journal.pgph.0000329},
-  publisher={Public Library of Science San Francisco, CA USA}
+  publisher={Public Library of Science}
 }
 ```
 
