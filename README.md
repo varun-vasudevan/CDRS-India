@@ -89,12 +89,18 @@ How many men and women have died due to COVID-19 in each state in India? What se
 ## Citing our paper
 If you find this study useful, please cite our paper:
 ```
-@article{vasudevan2021asse,
+@article{vasudevan2022assessment,
   title={Assessment of COVID-19 data reporting in 100+ websites and apps in India},
   author={Vasudevan, Varun and Gnanasekaran, Abeynaya and Bansal, Bhavik and Lahariya, Chandrakant and Parameswaran, Giridara Gopal and Zou, James},
-  year={2021},
-  publisher={OSF Preprints},
-  doi={https://doi.org/10.31219/osf.io/wa3gn}
+  journal={PLOS Global Public Health},
+  year = {2022},
+  month = {04},
+  volume = {2},
+  url = {https://doi.org/10.1371/journal.pgph.0000329},
+  pages = {1-11},
+  number = {4},
+  doi = {10.1371/journal.pgph.0000329},
+  publisher={Public Library of Science San Francisco, CA USA}
 }
 ```
 
