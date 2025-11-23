@@ -20,7 +20,7 @@ In this project we evaluated the quality of COVID-19 data reporting across India
 # Media coverage <a name="media"></a>
 The following are few news articles from India that covered our work. Links are below the snapshot.
 
-<img src="media_coverage_screenshot.png" alt="" width="500" style="border: 2px solid grey;">
+[<img src="media_coverage_screenshot.png" alt="" style="border: 2px solid grey;">](media_coverage_screenshot.png)
 
 
 
