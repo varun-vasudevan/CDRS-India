@@ -1,10 +1,16 @@
 # Table of contents
 
-- [Introduction](#intro)
-- [Media coverage](#media)
-- [Study 1 (May 19 - June 1, 2020)](#study1)
-- [Study 2 (July 12 - July 25, 2020)](#study2)
-- [Study 3 (May 22 - June 05, 2021)](#study3)
+- [Table of contents](#table-of-contents)
+- [Introduction ](#introduction-)
+- [Media coverage ](#media-coverage-)
+    - [Study 3](#study-3)
+    - [Study 1](#study-1)
+- [Study 1 (May 19 - June 1, 2020) ](#study-1-may-19---june-1-2020-)
+  - [Citing our paper](#citing-our-paper)
+- [Study 2 (July 12 - July 25, 2020) ](#study-2-july-12---july-25-2020-)
+  - [Citing our paper](#citing-our-paper-1)
+- [Study 3 (May 22 - June 05, 2021) ](#study-3-may-22---june-05-2021-)
+  - [Citing our paper](#citing-our-paper-2)
 
 <!-- toc -->
 
@@ -12,7 +18,12 @@
 In this project we evaluated the quality of COVID-19 data reporting across India during three time-periods between 2020 (first wave) and 2021 (second wave). In [study 1](#study1) and [study 2](#study2) we assess the quality in the reporting of surveillance data. In [study 3](#study3) we assess the quality in the reporting of surveillance data, vaccination monitoring data, and vacant bed reporting.
 
 # Media coverage <a name="media"></a>
-The following are few news articles from India that covered our work.
+The following are few news articles from India that covered our work. Links are below the snapshot.
+
+<img src="media_coverage_screenshot.png" alt="" width="500" style="border: 2px solid grey;">
+
+
+
 
 ### Study 3
 - English
